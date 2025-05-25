@@ -2,6 +2,11 @@
 
 Welcome to **CutCraft** – a beautiful, modern, and fully responsive website template for barbers, stylists, and grooming professionals. Built with React, Tailwind CSS, and Framer Motion, this template is perfect for anyone looking to quickly launch a professional online presence.
 
+![Homepage](https://i.imgur.com/Ai0uyVo.jpeg)
+
+![Pricing & Gallery](https://i.imgur.com/XaEeC65.png)
+
+
 ---
 
 ## 🚀 Features
@@ -18,8 +23,7 @@ Welcome to **CutCraft** – a beautiful, modern, and fully responsive website te
 
 ## 📸 Live Demo
 
-> **[View Demo](#)**  
-> _(Add your deployed link here!)_
+👉 **[View Demo](https://barber-template-snowy.vercel.app/)**
 
 ---
 
